@@ -5,15 +5,15 @@
   
   
   # Hydra
-   UPCOMING BEST 
-       META 
-  CRACKING TOOLS
+  BEST  META 
+CRACKING TOOLS
 
-
-
-FT . AOREC XD  x MRXVAAU
-
-
-     #DAILY UPDATE 
-
-    Big TOOLS Coming #
+#pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+#pip install bs4 
+#apt update -y;apt upgrade -y
+#apt install git python -y
+#rm -rf Hydra
+#git clone https://github.com/mrxvaau/Hydra --depth=1
+#cd Hydra
+#git pull
+#python run.py #
