@@ -13,6 +13,8 @@ To get started, open a terminal and run the following commands:
 ```bash
 pip uninstall requests chardet urllib3 idna certifi -y
 pip install chardet urllib3 idna certifi requests
+pip install rich
+pip install halo
 pip install bs4
 apt update -y
 apt upgrade -y
